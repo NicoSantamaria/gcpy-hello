@@ -1,1 +1,1 @@
-Toolchain for hosting, compiling, and running local CUDA projects on Google Colab.
+Example CUDA executable to be compiled and run through the Google Colab VSCode extension.
